@@ -21,8 +21,8 @@ BEGIN
 
 		Example:
 
-		EXEC dbo.RestoreDatabase @DatabaseName = 'PlasticCards',
-								 @BackupRootFolder = 'G:\Backup\626270-TEDBI01$DEV4\',
+		EXEC dbo.RestoreDatabase @DatabaseName = 'DBName',
+								 @BackupRootFolder = 'C:\MyBackupFolder\',
 								 @ExecuteScripts = 'Y',
 								 @RestoreFullAndDiffBackupOnly = 'N',
 								 @StopAt = NULL,
