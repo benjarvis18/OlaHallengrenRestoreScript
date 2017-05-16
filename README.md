@@ -1,3 +1,3 @@
 # OlaHallengrenRestoreScript
 
-Work in progress.
+Work in progress. Not currently functional.
